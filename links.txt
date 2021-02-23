@@ -1,0 +1,8 @@
+Netlify url:
+
+https://affectionate-feynman-63b6e4.netlify.app/
+
+Heroku Url:
+
+https://web-scrapping-backend.herokuapp.com/
+
