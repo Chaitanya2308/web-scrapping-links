@@ -4,5 +4,12 @@ https://affectionate-feynman-63b6e4.netlify.app/
 
 Heroku Url:
 
+https://web-scrapping-backend.herokuapp.com/products
 https://web-scrapping-backend.herokuapp.com/
 
+Front End:
+
+https://github.com/Chaitanya2308/webScrapping-Ecommerce
+
+BackEnd:
+https://github.com/Chaitanya2308/webScrapping-Ecommerce-backend
